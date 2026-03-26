@@ -5,7 +5,10 @@
       {
         "name": "Subro",
         "text": "😁",
-        "timestamp": "2026-03-26T16:14:48.913Z"
+        "timestamp": "2026-03-26T16:14:48.913Z",
+        "id": "mn7zbyy3qpwu0",
+        "replies": [],
+        "reactions": {}
       }
     ]
   },
@@ -15,7 +18,43 @@
       {
         "name": "Subro",
         "text": "Hi",
-        "timestamp": "2026-03-26T17:33:29.831Z"
+        "timestamp": "2026-03-26T17:33:29.831Z",
+        "id": "mn7zbyy3yrlhs",
+        "replies": [
+          {
+            "id": "mn7ze5toucold",
+            "name": "Vd",
+            "text": "Hidd",
+            "timestamp": "2026-03-26T21:25:14.364Z"
+          },
+          {
+            "id": "mn7zmstd2wntm",
+            "name": "S",
+            "text": "Hdd",
+            "timestamp": "2026-03-26T21:31:57.409Z"
+          }
+        ],
+        "reactions": {
+          "❤️": [
+            "S"
+          ],
+          "😍": [
+            "Prerna"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "memoryId": "test123",
+    "comments": [
+      {
+        "id": "mn7xo0ucnhqzs",
+        "name": "Test",
+        "text": "Hello",
+        "timestamp": "2026-03-26T20:36:55.236Z",
+        "replies": [],
+        "reactions": {}
       }
     ]
   }
